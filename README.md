@@ -1,5 +1,5 @@
 # kdj's 1st Flutter Clone Coding
-- from nomadcoders
+- from [nomadcoders](https://nomadcoders.co/flutter-for-beginners/lobby)
 
 A new Flutter project.
 
